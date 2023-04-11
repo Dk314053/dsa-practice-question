@@ -1,0 +1,15 @@
+
+table {
+    border:2px solid black;
+    width:100%;
+     
+}
+tr,th,td{
+    border:2px solid black;
+    width: 80px;
+}
+.action{
+    font-size:35px ;
+    font-weight: 600px;
+    cursor: pointer;
+}
