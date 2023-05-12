@@ -1,0 +1,21 @@
+.manin{
+  font-size: 70px;
+  width: 200px;
+  height: 400px;
+  margin-bottom: 20px;
+}
+.btn6{
+    font-size: 30px;
+    margin-bottom: 10px;
+   background-color: yellow;
+}
+.btn7{
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    background-color:red;
+}
+.para2{
+    font-size: 25px;
+    font-weight: 500;
+}
